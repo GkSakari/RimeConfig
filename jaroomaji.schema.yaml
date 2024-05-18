@@ -26,7 +26,7 @@ switches:
     states: [ あ, A ]
     reset: 0  # デフォルトで英数モード
   - name: full_shape
-    states: [ 半角記号, 全角記号 ]
+    states: [ 半, 全 ]
     reset: 0  # デフォルトで半角記号モード
 
 # # # # # # # # # # # # # # # # # # # #
