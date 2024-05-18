@@ -837,7 +837,7 @@ punctuator:
     '{' : [ '『', '〖', '｛' ]
     '}' : [ '』', '〗', '｝' ]
   half_shape:
-    ' ' : '　'  # 半角記号モードでも全角スペースにする
+    ' ' : ' '  # 半角記号モードでも半角スペースにする
     ',' : '、'
     '.' : '。'
     '?' : '？'
@@ -861,6 +861,8 @@ key_binder:
     # - { when: has_menu, accept: minus, send: minus }  # 「ー」入力用
     - { when: has_menu, accept: Return, send: Shift+Return }  # Enterで変換しないで直接確定
     - { when: has_menu, accept: Shift+Return, send: Return }  # Shift + Enterで英字確定
+    - { when: has_menu, accept: BackSpace, send: Shift+BackSpace }  # BackSpaceで変換しないで直接消す
+    - { when: has_menu, accept: Shift+BackSpace, send: BackSpace }  # Shift + BackSpaceで英字消す
 
 # # # # # # # # # # # # # # # # # # # #
 # メールアドレスやURLを入力したときに英字モードに自動切り替え
