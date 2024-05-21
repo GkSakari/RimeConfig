@@ -25,6 +25,9 @@ switches:
   - name: ascii_mode
     states: [ あ, A ]
     reset: 0  # デフォルトで英数モード
+  - name: ascii_punct
+    states: [ 。, . ]
+    reset: 0  # デフォルトで日句読点
   - name: full_shape
     states: [ 半, 全 ]
     reset: 0  # デフォルトで半角記号モード
