@@ -1,0 +1,1282 @@
+---
+name: pokemon_items
+version: "2024-02-12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 野外使用的道具
+除虫喷雾	chu chong pen wu
+白银喷雾	bai yin pen wu
+黄金喷雾	huang jin pen wu
+木箱	mu xiang
+桐木箱	tong mu xiang
+蓝色玻璃哨	lan se bo li shao
+黄色玻璃哨	huang se bo li shao
+红色玻璃哨	hong se bo li shao
+黑色玻璃哨	hei se bo li shao
+白色玻璃哨	bai se bo li shao
+速速肥	su su fei
+湿湿肥	shi shi fei
+久久肥	jiu jiu fei
+粘粘肥	zhan zhan fei
+硕果肥	shuo guo fei
+吃惊肥	chi jing fei
+劲劲肥	jin jin fei
+超效肥	chao xiao fei
+朱红色花蜜	zhu hong se hua mi
+金黄色花蜜	jin huang se hua mi
+桃粉色花蜜	tao fen se hua mi
+兰紫色花蜜	lan zi se hua mi
+树叶信	shu ye xin
+小小花束	xiao xiao hua shu
+引虫香水	yin chong xiang shui
+白银香水	bai yin xiang shui
+黄金香水	huang jin xiang shui
+许愿星碎片	xu yuan xing sui pian
+许愿星块	xu yuan xing kuai
+楔石	xie shi
+数据卡	shu ju ka
+折价券	zhe jia quan
+极巨结晶	ji ju jie jing
+匿声喷雾	ni sheng pen wu
+晶晶蜜	jing jing mi
+旺旺谷	wang wang gu
+滚滚豆	gun gun dou
+糯糯菇	nuo nuo gu
+坚坚矿	jian jian kuang
+泥丸	ni wan
+蛀球果	zhu qiu guo
+雪丸	xue wan
+黏丸	nian wan
+声弹	sheng dan
+烟弹	yan dan
+蜜诱团	mi you tuan
+谷诱团	gu you tuan
+豆诱团	dou you tuan
+菇诱团	gu you tuan
+矿诱团	kuang you tuan
+# 培养宝可梦的道具
+提升剂	ti sheng ji
+极限提升剂	ji xian ti sheng ji
+增强剂	zeng qiang ji
+攻击增强剂	gong ji zeng qiang ji
+防御增强剂	fang yu zeng qiang ji
+特攻增强剂	te gong zeng qiang ji
+特防增强剂	te fang zeng qiang ji
+速度增强剂	su du zeng qiang ji
+体力之羽	ti li zhi yu
+肌力之羽	ji li zhi yu
+抵抗之羽	di kang zhi yu
+智力之羽	zhi li zhi yu
+精神之羽	jing shen zhi yu
+瞬发之羽	shun fa zhi yu
+特性胶囊	te xing jiao nang
+特性膏药	te xing gao yao
+怕寂寞薄荷	pa ji mo bo he
+固执薄荷	gu zhi bo he
+顽皮薄荷	wan pi bo he
+勇敢薄荷	yong gan bo he
+大胆薄荷	da dan bo he
+淘气薄荷	tao qi bo he
+乐天薄荷	le tian bo he
+悠闲薄荷	you xian bo he
+内敛薄荷	nei lian bo he
+慢吞吞薄荷	man tun tun bo he
+马虎薄荷	ma hu bo he
+冷静薄荷	leng jing bo he
+温和薄荷	wen he bo he
+温顺薄荷	wen shun bo he
+慎重薄荷	shen zhong bo he
+自大薄荷	zi da bo he
+胆小薄荷	dan xiao bo he
+急躁薄荷	ji zao bo he
+爽朗薄荷	shuang lang bo he
+天真薄荷	tian zhen bo he
+认真薄荷	ren zhen bo he
+奋斗沙	fen dou sha
+奋斗砾	fen dou li
+奋斗石	fen dou shi
+奋斗岩	fen dou yan
+体力粘糕	ti li zhan gao
+肌力粘糕	ji li zhan gao
+抵抗粘糕	di kang zhan gao
+智力粘糕	zhi li zhan gao
+精神粘糕	jing shen zhan gao
+瞬发粘糕	shun fa zhan gao
+净空粘糕	jing kong zhan gao
+# 进化道具
+火之石	huo zhi shi
+雷之石	lei zhi shi
+水之石	shui zhi shi
+叶之石	ye zhi shi
+月之石	yue zhi shi
+日之石	ri zhi shi
+光之石	guang zhi shi
+暗之石	an zhi shi
+觉醒之石	jue xing zhi shi
+冰之石	bing zhi shi
+甜甜苹果	tian tian ping guo
+酸酸苹果	suan suan ping guo
+破裂的茶壶	po lie de cha hu
+缺损的茶壶	que sun de cha hu
+伽勒豆蔻手环	ga lei dou kou shou huan
+伽勒豆蔻花圈	ga lei dou kou hua quan
+联系绳	lian xi sheng
+黑奇石	hei qi shi
+泥炭块	ni tan kuai
+庆祝之铠	qing zhu zhi kai
+咒术之铠	zhou shu zhi kai
+蜜汁苹果	mi zhi ping guo
+凡作茶碗	fan zuo cha wan
+杰作茶碗	jie zuo cha wan
+复合金属	fu he jin shu
+# 可交换道具
+红色碎片	hong se sui pian
+绿色碎片	lv se sui pian
+蓝色碎片	lan se sui pian
+黄色碎片	huang se sui pian
+浅滩海盐	qian tan hai yan
+浅滩贝壳	qian tan bei ke
+心之鳞片	xin zhi lin pian
+释出之玉	shi chu zhi yu
+圆庆票	yuan qing piao
+银色王冠	yin se wang guan
+金色王冠	jin se wang guan
+伽勒豆蔻枝	ga lei dou kou zhi
+铠甲矿石	kai jia kuang shi
+极矿石	ji kuang shi
+谜之碎片	mi zhi sui pian
+精通种子	jing tong zhong zi
+# 球果
+红球果	hong qiu guo
+蓝球果	lan qiu guo
+黄球果	huang qiu guo
+绿球果	lv qiu guo
+粉球果	fen qiu guo
+白球果	bai qiu guo
+黑球果	hei qiu guo
+# 太晶碎块
+一般太晶碎块	yi ban tai jing sui kuai
+火太晶碎块	huo tai jing sui kuai
+水太晶碎块	shui tai jing sui kuai
+电太晶碎块	dian tai jing sui kuai
+草太晶碎块	cao tai jing sui kuai
+冰太晶碎块	bing tai jing sui kuai
+格斗太晶碎块	ge dou tai jing sui kuai
+毒太晶碎块	du tai jing sui kuai
+地面太晶碎块	di mian tai jing sui kuai
+飞行太晶碎块	fei xing tai jing sui kuai
+超能力太晶碎块	chao neng li tai jing sui kuai
+虫太晶碎块	chong tai jing sui kuai
+岩石太晶碎块	yan shi tai jing sui kuai
+幽灵太晶碎块	you ling tai jing sui kuai
+龙太晶碎块	long tai jing sui kuai
+恶太晶碎块	e tai jing sui kuai
+钢太晶碎块	gang tai jing sui kuai
+妖精太晶碎块	yao jing tai jing sui kuai
+星晶太晶碎块	xing jing tai jing sui kuai
+# 携带物品
+光粉	guang fen
+先制之爪	xian zhi zhi zhao
+王者之证	wang zhe zhi zheng
+银粉	yin fen
+护符金币	hu fu jin bi
+洁净之符	jie jing zhi fu
+烟雾球	yan wu qiu
+不变之石	bu bian zhi shi
+气势头带	qi shi tou dai
+幸运蛋	xing yun dan
+焦点镜	jiao dian jing
+金属膜	jin shu mo
+吃剩的东西	chi sheng de dong xi
+龙之鳞片	long zhi lin pian
+电气球	dian qi qiu
+柔软沙子	rou ruan sha zi
+硬石头	ying shi tou
+奇迹种子	qi ji zhong zi
+黑色眼镜	hei se yan jing
+黑带	hei dai
+磁铁	ci tie
+神秘水滴	shen mi shui di
+锐利鸟嘴	rui li niao zui
+毒针	du zhen
+不融冰	bu rong bing
+咒术之符	zhou shu zhi fu
+弯曲的汤匙	wan qu de tang chi
+木炭	mu tan
+龙之牙	long zhi ya
+粉红色丝带	fen hong se si dai
+水玉色之带	shui yu se zhi dai
+丝绸围巾	si chou wei jin
+破坏基因	po huai ji yin
+升级数据	sheng ji shu ju
+吉利拳	ji li quan
+金属粉	jin shu fen
+速度粉	su du fen
+粗骨头	cu gu tou
+大葱	da cong
+果实	guo shi
+黄金的果实	huang jin de guo shi
+消除麻痹的果实	xiao chu ma bi de guo shi
+解毒的果实	jie du de guo shi
+苦涩的果实	ku se de guo shi
+烧烤的果实	shao kao de guo shi
+冰冻的果实	bing dong de guo shi
+薄荷的果实	bo he de guo shi
+奇迹的果实	qi ji de guo shi
+神奇的果实	shen qi de guo shi
+白色香草	bai se xiang cao
+心灵香草	xin ling xiang cao
+强力香草	qiang li xiang cao
+强制锻炼器	qiang zhi duan lian qi
+安抚之铃	an fu zhi ling
+讲究头带	jiang jiu tou dai
+讲究眼镜	jiang jiu yan jing
+讲究围巾	jiang jiu wei jin
+心之水滴	xin zhi shui di
+深海之牙	shen hai zhi ya
+深海鳞片	shen hai lin pian
+贝壳之铃	bei ke zhi ling
+海潮熏香	hai chao xun xiang
+悠闲熏香	you xian xun xiang
+奇异熏香	qi yi xun xiang
+岩石熏香	yan shi xun xiang
+饱腹熏香	bao fu xun xiang
+涟漪熏香	lian yi xun xiang
+花朵熏香	hua duo xun xiang
+幸运熏香	xing yun xun xiang
+洁净熏香	jie jing xun xiang
+红色头巾	hong se tou jin
+蓝色头巾	lan se tou jin
+粉红头巾	fen hong tou jin
+绿色头巾	lv se tou jin
+黄色头巾	huang se tou jin
+朱红色宝珠	zhu hong se bao zhu
+靛蓝色宝珠	dian lan se bao zhu
+火球石板	huo qiu shi ban
+水滴石板	shui di shi ban
+雷电石板	lei dian shi ban
+碧绿石板	bi lv shi ban
+冰柱石板	bing zhu shi ban
+拳头石板	quan tou shi ban
+剧毒石板	ju du shi ban
+大地石板	da di shi ban
+蓝天石板	lan tian shi ban
+神奇石板	shen qi shi ban
+玉虫石板	yu chong shi ban
+岩石石板	yan shi shi ban
+妖怪石板	yao guai shi ban
+龙之石板	long zhi shi ban
+恶颜石板	e yan shi ban
+钢铁石板	gang tie shi ban
+妖精石板	yao jing shi ban
+浑圆之石	hun yuan zhi shi
+金刚宝珠	jin gang bao zhu
+白玉宝珠	bai yu bao zhu
+白金宝珠	bai jin bao zhu
+护具	hu ju
+电力增幅器	dian li zeng fu qi
+熔岩增幅器	rong yan zeng fu qi
+可疑补丁	ke yi bu ding
+灵界之布	ling jie zhi bu
+锐利之爪	rui li zhi zhao
+锐利之牙	rui li zhi ya
+广角镜	guang jiao jing
+力量头带	li liang tou dai
+博识眼镜	bo shi yan jing
+达人带	da ren dai
+光之黏土	guang zhi nian tu
+生命宝珠	sheng ming bao zhu
+剧毒宝珠	ju du bao zhu
+火焰宝珠	huo yan bao zhu
+气势披带	qi shi pi dai
+对焦镜	dui jiao jing
+节拍器	jie pai qi
+黑色铁球	hei se tie qiu
+后攻之尾	hou gong zhi wei
+红线	hong xian
+黑色污泥	hei se wu ni
+冰冷岩石	bing leng yan shi
+沙沙岩石	sha sha yan shi
+炽热岩石	chi re yan shi
+潮湿岩石	chao shi yan shi
+紧缠钩爪	jin chan gou zhao
+附着针	fu zhuo zhen
+力量护腕	li liang hu wan
+力量腰带	li liang yao dai
+力量镜	li liang jing
+力量束带	li liang shu dai
+力量护踝	li liang hu huai
+力量负重	li liang fu zhong
+美丽空壳	mei li kong ke
+大根茎	da gen jing
+水流卡带	shui liu ka dai
+闪电卡带	shan dian ka dai
+火焰卡带	huo yan ka dai
+冰冻卡带	bing dong ka dai
+美丽鳞片	mei li lin pian
+进化奇石	jin hua qi shi
+轻石	qing shi
+凸凸头盔	tu tu tou kui
+气球	qi qiu
+红牌	hong pai
+标靶	biao ba
+紧绑束带	jin bang shu dai
+球根	qiu gen
+充电电池	chong dian dian chi
+逃脱按键	tao tuo an jian
+火之宝石	huo zhi bao shi
+水之宝石	shui zhi bao shi
+电之宝石	dian zhi bao shi
+草之宝石	cao zhi bao shi
+冰之宝石	bing zhi bao shi
+格斗宝石	ge dou bao shi
+毒之宝石	du zhi bao shi
+地面宝石	di mian bao shi
+飞行宝石	fei xing bao shi
+超能力宝石	chao neng li bao shi
+虫之宝石	chong zhi bao shi
+岩石宝石	yan shi bao shi
+幽灵宝石	you ling bao shi
+龙之宝石	long zhi bao shi
+恶之宝石	e zhi bao shi
+钢之宝石	gang zhi bao shi
+一般宝石	yi ban bao shi
+妖精宝石	yao jing bao shi
+弱点保险	ruo dian bao xian
+打空保险	da kong bao xian
+突击背心	tu ji bei xin
+泡沫奶油	pao mo nai you
+香袋	xiang dai
+光苔	guang tai
+雪球	xue qiu
+防尘护目镜	fang chen hu mu jing
+妙蛙花进化石	miao wa hua jin hua shi
+喷火龙进化石	pen huo long jin hua shi
+水箭龟进化石	shui jian gui jin hua shi
+大针蜂进化石	da zhen feng jin hua shi
+大比鸟进化石	da bi niao jin hua shi
+胡地进化石	hu di jin hua shi
+呆壳兽进化石	dai ke shou jin hua shi
+耿鬼进化石	geng gui jin hua shi
+袋兽进化石	dai shou jin hua shi
+凯罗斯进化石	kai luo si jin hua shi
+暴鲤龙进化石	bao li long jin hua shi
+化石翼龙进化石	hua shi yi long jin hua shi
+超梦进化石	chao meng jin hua shi
+电龙进化石	dian long jin hua shi
+大钢蛇进化石	da gang she jin hua shi
+巨钳螳螂进化石	ju qian tang lang jin hua shi
+赫拉克罗斯进化石	he la ke luo si jin hua shi
+黑鲁加进化石	hei lu jia jin hua shi
+班吉拉斯进化石	ban ji la si jin hua shi
+蜥蜴王进化石	xi yi wang jin hua shi
+火焰鸡进化石	huo yan ji jin hua shi
+巨沼怪进化石	ju zhao guai jin hua shi
+沙奈朵进化石	sha nai duo jin hua shi
+勾魂眼进化石	gou hun yan jin hua shi
+大嘴娃进化石	da zui wa jin hua shi
+波士可多拉进化石	bo shi ke duo la jin hua shi
+恰雷姆进化石	qia lei mu jin hua shi
+雷电兽进化石	lei dian shou jin hua shi
+巨牙鲨进化石	ju ya sha jin hua shi
+喷火驼进化石	pen huo tuo jin hua shi
+七夕青鸟进化石	qi xi qing niao jin hua shi
+诅咒娃娃进化石	zu zhou wa wa jin hua shi
+阿勃梭鲁进化石	a bo suo lu jin hua shi
+冰鬼护进化石	bing gui hu jin hua shi
+暴飞龙进化石	bao fei long jin hua shi
+巨金怪进化石	ju jin guai jin hua shi
+拉帝亚斯进化石	la di ya si jin hua shi
+拉帝欧斯进化石	la di ou si jin hua shi
+长耳兔进化石	zhang er tu jin hua shi
+路卡利欧进化石	lu qia li ou jin hua shi
+烈咬陆鲨进化石	lie yao lu sha jin hua shi
+暴雪王进化石	bao xue wang jin hua shi
+艾路雷朵进化石	ai lu lei duo jin hua shi
+差不多娃娃进化石	cha bu duo wa wa jin hua shi
+蒂安希进化石	di an xi jin hua shi
+胆怯球	dan qie qiu
+大地膜	da di mo
+部位护具	bu wei hu ju
+电气种子	dian qi zhong zi
+精神种子	jing shen zhong zi
+薄雾种子	bo wu zhong zi
+青草种子	qing cao zhong zi
+战斗存储碟	zhan dou cun chu die
+飞翔存储碟	fei xiang cun chu die
+毒存储碟	du cun chu die
+大地存储碟	da di cun chu die
+岩石存储碟	yan shi cun chu die
+虫子存储碟	chong zi cun chu die
+幽灵存储碟	you ling cun chu die
+钢铁存储碟	gang tie cun chu die
+火焰存储碟	huo yan cun chu die
+清水存储碟	qing shui cun chu die
+青草存储碟	qing cao cun chu die
+电子存储碟	dian zi cun chu die
+精神存储碟	jing shen cun chu die
+冰雪存储碟	bing xue cun chu die
+龙存储碟	long cun chu die
+黑暗存储碟	hei an cun chu die
+妖精存储碟	yao jing cun chu die
+腐朽的剑	fu xiu de jian
+腐朽的盾	fu xiu de dun
+草莓糖饰	cao mei tang shi
+爱心糖饰	ai xin tang shi
+野莓糖饰	ye mei tang shi
+幸运草糖饰	xing yun cao tang shi
+花朵糖饰	hua duo tang shi
+星星糖饰	xing xing tang shi
+蝴蝶结糖饰	hu die jie tang shi
+爽喉喷雾	shuang hou pen wu
+避难背包	bi nan bei bao
+厚底靴	hou di xue
+客房服务	ke fang fu wu
+万能伞	wan neng san
+大金刚宝玉	da jin gang bao yu
+大白宝玉	da bai bao yu
+大白金宝玉	da bai jin bao yu
+驱劲能量	qu jin neng liang
+特性护具	te xing hu ju
+清净坠饰	qing jing zhui shi
+模仿香草	mo fang xiang cao
+拳击手套	quan ji shou tao
+密探斗篷	mi tan dou peng
+机变骰子	ji bian tou zi
+头领凭证	tou ling ping zheng
+妖精之羽	yao jing zhi yu
+础石面具	chu shi mian ju
+水井面具	shui jing mian ju
+火灶面具	huo zao mian ju
+# 邮件
+# 第二世代
+蓝天邮件	lan tian you jian
+伊布邮件	yi bu you jian
+花案邮件	hua an you jian
+水色邮件	shui se you jian
+可爱邮件	ke ai you jian
+梦幻邮件	meng huan you jian
+变身邮件	bian shen you jian
+肖像邮件	xiao xiang you jian
+音符邮件	yin fu you jian
+冲浪邮件	chong lang you jian
+# 第三世代
+橙色邮件	cheng se you jian
+港口邮件	gang kou you jian
+闪亮邮件	shan liang you jian
+机械邮件	ji xie you jian
+木纹邮件	mu wen you jian
+波涛邮件	bo tao you jian
+珠宝邮件	zhu bao you jian
+影子邮件	ying zi you jian
+热带邮件	re dai you jian
+梦境邮件	meng jing you jian
+奇迹邮件	qi ji you jian
+复古邮件	fu gu you jian
+# 第四世代
+青草邮件	qing cao you jian
+火焰邮件	huo yan you jian
+水蓝邮件	shui lan you jian
+绽放邮件	zhan fang you jian
+隧道邮件	sui dao you jian
+钢铁邮件	gang tie you jian
+甜蜜邮件	tian mi you jian
+暴雪邮件	bao xue you jian
+空间邮件	kong jian you jian
+天空邮件	tian kong you jian
+彩嵌邮件	cai qian you jian
+砖块邮件	zhuan kuai you jian
+# 第五世代
+初次邮件	chu ci you jian
+喜爱邮件	xi ai you jian
+邀请邮件	yao qing you jian
+感谢邮件	gan xie you jian
+询问邮件	xun wen you jian
+推荐邮件	tui jian you jian
+回复邮件	hui fu you jian
+桥梁邮件	qiao liang you jian
+# 糖果
+神奇糖果	shen qi tang guo
+元气糖果	yuan qi tang guo
+力量糖果	li liang tang guo
+守护糖果	shou hu tang guo
+知识糖果	zhi shi tang guo
+心灵糖果	xin ling tang guo
+敏捷糖果	min jie tang guo
+宝可梦的糖果	bao ke meng de tang guo
+经验糖果	jing yan tang guo
+极巨糖果	ji ju tang guo
+# 护符
+替身护符	ti shen hu fu
+安全护符	an quan hu fu
+健康护符	jian kang hu fu
+# 材料
+球果果	qiu guo guo
+弹子萁	dan zi qi
+玉石	yu shi
+木材	mu cai
+皇叶	huang ye
+除虫草	chu chong cao
+碎铁	sui tie
+黑玉石	hei yu shi
+天蓝玉石	tian lan yu shi
+惊声藻	jing sheng zao
+烟芋	yan yu
+疗草	liao cao
+活力蕾	huo li lei
+剑舞菇	jian wu gu
+铁壁木耳	tie bi mu er
+影分菇	ying fen gu
+要害松露	yao hai song lu
+沙滩萝卜	sha tan luo bo
+甜松露	tian song lu
+诱团原料	you tuan yuan liao
+精灵球	jing ling qiu
+超级球	chao ji qiu
+高级球	gao ji qiu
+狩猎球	shou lie qiu
+大师球	da shi qiu
+速度球	su du qiu
+等级球	deng ji qiu
+诱饵球	you er qiu
+甜蜜球	tian mi qiu
+友友球	you you qiu
+月亮球	yue liang qiu
+沉重球	chen zhong qiu
+超重球	chao zhong qiu
+巨重球	ju zhong qiu
+竞赛球	jing sai qiu
+公园球	gong yuan qiu
+捕网球	bu wang qiu
+潜水球	qian shui qiu
+巢穴球	chao xue qiu
+重复球	chong fu qiu
+计时球	ji shi qiu
+豪华球	hao hua qiu
+纪念球	ji nian qiu
+黑暗球	hei an qiu
+治愈球	zhi yu qiu
+先机球	xian ji qiu
+贵重球	gui zhong qiu
+梦境球	meng jing qiu
+究极球	jiu ji qiu
+飞羽球	fei yu qiu
+飞翼球	fei yi qiu
+飞梭球	fei suo qiu
+奇异球	qi yi qiu
+挖洞钻	wa dong zuan
+关都石板	guan dou shi ban
+城都石板	cheng dou shi ban
+心之石板	xin zhi shi ban
+彩虹石板	cai hong shi ban
+暴风石板	bao feng shi ban
+大海石板	da hai shi ban
+大陆石板	da lu shi ban
+天空石板	tian kong shi ban
+基因石板	ji yin shi ban
+引导石板	yin dao shi ban
+毁坏石板	hui huai shi ban
+# 贵重道具
+小蘑菇	xiao mo gu
+大蘑菇	da mo gu
+芳香蘑菇	fang xiang mo gu
+珍珠	zhen zhu
+大珍珠	da zhen zhu
+丸子珍珠	wan zi zhen zhu
+星星沙子	xing xing sha zi
+星星碎片	xing xing sui pian
+彗星碎片	hui xing sui pian
+银色叶子	yin se ye zi
+金色叶子	jin se ye zi
+金珠	jin zhu
+巨大金珠	ju da jin zhu
+古代铜币	gu dai tong bi
+古代银币	gu dai yin bi
+古代金币	gu dai jin bi
+古代之壶	gu dai zhi hu
+古代手镯	gu dai shou zhuo
+古代石像	gu dai shi xiang
+古代王冠	gu dai wang guan
+小竹笋	xiao zhu sun
+大竹笋	da zhu sun
+砖瓦碎片	zhuan wa sui pian
+贵重骨头	gui zhong gu tou
+甜甜蜜	tian tian mi
+美丽之羽	mei li zhi yu
+神秘摆设	shen mi bai she
+松掉的弹簧	song diao de tan huang
+粉笔石	fen bi shi
+弹珠	dan zhu
+一边的耳环	yi bian de er huan
+海边的玻璃	hai bian de bo li
+光滑泥球	guang hua ni qiu
+南国贝壳	nan guo bei ke
+宝可梦木娃娃	bao ke meng mu wa wa
+# 化石
+贝壳化石	bei ke hua shi
+甲壳化石	jia qiao hua shi
+秘密琥珀	mi mi hu po
+根状化石	gen zhuang hua shi
+爪子化石	zhua zi hua shi
+头盖化石	tou gai hua shi
+盾甲化石	dun jia hua shi
+背盖化石	bei gai hua shi
+羽毛化石	yu mao hua shi
+颚之化石	e zhi hua shi
+鳍之化石	qi zhi hua shi
+化石鸟	hua shi niao
+化石鱼	hua shi yu
+化石龙	hua shi long
+化石海兽	hua shi hai shou
+能力防守	neng li fang shou
+要害攻击	yao hai gong ji
+力量强化	li liang qiang hua
+防御强化	fang yu qiang hua
+特攻强化	te gong qiang hua
+特防强化	te fang qiang hua
+速度强化	su du qiang hua
+命中强化	ming zhong qiang hua
+皮皮玩偶	pi pi wan ou
+向尾喵的尾巴	xiang wei miao de wei ba
+宝可尾草	bao ke wei cao
+极巨菇菇	ji ju gu gu
+进攻药丸	jin gong yao wan
+防守药丸	fang shou yao wan
+多重强化	duo zhong qiang hua
+闪避强化	shan bi qiang hua
+讲究糉	jiang jiu zong
+双倍腌菜	shuang bei yan cai
+颠倒烧	dian dao shao
+招式学习器	zhao shi xue xi qi
+秘传学习器	mi chuan xue xi qi
+招式记录	zhao shi ji lu
+伤药	shang yao
+好伤药	hao shang yao
+厉害伤药	li hai shang yao
+全满药	quan man yao
+全复药	quan fu yao
+解毒药	jie du yao
+灼伤药	zhuo shang yao
+解冻药	jie dong yao
+解眠药	jie mian yao
+解麻药	jie ma yao
+万灵药	wan ling yao
+活力碎片	huo li sui pian
+活力块	huo li kuai
+美味之水	mei wei zhi shui
+劲爽汽水	jin shuang qi shui
+果汁牛奶	guo zhi niu nai
+哞哞鲜奶	mou mou xian nai
+元气粉	yuan qi fen
+元气根	yuan qi gen
+万能粉	wan neng fen
+复活草	fu huo cao
+单项小补剂	dan xiang xiao bu ji
+单项全补剂	dan xiang quan bu ji
+多项小补剂	duo xiang xiao bu ji
+多项全补剂	duo xiang quan bu ji
+愤怒馒头	fen nu man tou
+釜炎仙贝	fu yan xian bei
+森之羊羹	sen zhi yang geng
+飞云冰淇淋	fei yun bing qi lin
+密阿雷格雷派饼	mi a lei ge lei pai bing
+娑罗沙布蕾	suo luo sha bu lei
+大马拉萨达	da ma la sa da
+深灰米果	shen hui mi guo
+祝庆玛芬	zhu qing ma fen
+树果汁	shu guo zhi
+心形甜点	xin xing tian dian
+圣灰	sheng hui
+极巨甜蜜	ji ju tian mi
+中药	zhong yao
+好中药	hao zhong yao
+厉害中药	li hai zhong yao
+# 训练家使用的Ｚ纯晶
+一般	yi ban
+格斗	ge dou
+地面	di mian
+飞行	fei xing
+超能力	chao neng li
+岩石	yan shi
+幽灵	you ling
+妖精	yao jing
+皮卡丘	pi ka qiu
+狙射树枭	ju she shu xiao
+炽焰咆哮虎	chi yan pao xiao hu
+西狮海壬	xi shi hai ren
+卡璞	ka pu
+玛夏多	ma xia duo
+阿罗雷	a luo lei
+卡比兽	ka bi shou
+伊布	yi bu
+梦幻	meng huan
+智皮卡	zhi pi ka
+索尔迦雷欧	suo er jia lei ou
+露奈雅拉	lu nai ya la
+究极奈克洛	jiu ji nai ke luo
+谜拟丘	mi ni qiu
+鬃岩狼人	zong yan lang ren
+杖尾鳞甲龙	zhang wei lin jia long
+# 宝可梦使用的Ｚ纯晶
+材料单	cai liao dan
+掉落物	diao luo wu
+索财灵的硬币	suo cai ling de ying bi
+长棍面包	zhang gun mian bao
+蛋黄酱	dan huang jiang
+西红柿酱	fan qie jiang
+黄芥末酱	huang jie mo jiang
+黄油	huang you
+花生酱	hua sheng jiang
+辣酱	la jiang
+胡椒	hu jiao
+酸奶	suan nai
+鲜奶油	xian nai you
+奶油芝士	nai you zhi shi
+莓果酱	mei guo jiang
+橘子酱	ju zi jiang
+橄榄油	gan lan you
+辣根	la gen
+咖喱粉	ga li fen
+芥末酱	jie mo jiang
+秘传：甜味料	mi chuan ： tian wei liao
+秘传：咸味料	mi chuan ： xian wei liao
+秘传：酸味料	mi chuan ： suan wei liao
+秘传：苦味料	mi chuan ： ku wei liao
+秘传：辣味料	mi chuan ： la wei liao
+野餐组合	ye can zu he
+校园水壶	xiao yuan shui hu
+圆点水壶	yuan dian shui hu
+条纹水壶	tiao wen shui hu
+菱纹水壶	ling wen shui hu
+校园水杯	xiao yuan shui bei
+直条纹水杯	zhi tiao wen shui bei
+圆点水杯	yuan dian shui bei
+花朵水杯	hua duo shui bei
+校园桌巾	xiao yuan zhuo jin
+幻彩桌巾	huan cai zhuo jin
+大自然桌巾	da zi ran zhuo jin
+鬼祟桌巾	gui sui zhuo jin
+校园球	xiao yuan qiu
+玛力露球	ma li lu qiu
+毛线球	mao xian qiu
+电竞球	dian jing qiu
+金色三明治签	jin se san ming zhi qian
+银色三明治签	yin se san ming zhi qian
+红旗子三明治签	hong qi zi san ming zhi qian
+蓝旗子三明治签	lan qi zi san ming zhi qian
+皮卡丘三明治签	pi ka qiu san ming zhi qian
+眨眼皮卡丘三明治签	zha yan pi ka qiu san ming zhi qian
+伊布三明治签	yi bu san ming zhi qian
+笑脸伊布三明治签	xiao lian yi bu san ming zhi qian
+蓝珠珠三明治签	lan zhu zhu san ming zhi qian
+粉红水壶	fen hong shui hu
+蓝色水壶	lan se shui hu
+黄色水壶	huang se shui hu
+红纹不锈钢水壶	hong wen bu xiu gang shui hu
+黄纹不锈钢水壶	huang wen bu xiu gang shui hu
+蓝纹不锈钢水壶	lan wen bu xiu gang shui hu
+银钛水壶	yin tai shui hu
+横条纹水杯	heng tiao wen shui bei
+菱纹水杯	ling wen shui bei
+火焰水杯	huo yan shui bei
+粉红水杯	fen hong shui bei
+蓝色水杯	lan se shui bei
+黄色水杯	huang se shui bei
+皮卡丘水杯	pi ka qiu shui bei
+伊布水杯	yi bu shui bei
+呆呆兽水杯	dai dai shou shui bei
+银钛水杯	yin tai shui bei
+瑜珈球	yu jia qiu
+黄色格子桌巾	huang se ge zi zhuo jin
+蓝色格子桌巾	lan se ge zi zhuo jin
+红色格子桌巾	hong se ge zi zhuo jin
+黑白草丛桌巾	hei bai cao cong zhuo jin
+对决桌巾	dui jue zhuo jin
+怪兽桌巾	guai shou zhuo jin
+条纹桌巾	tiao wen zhuo jin
+菱纹桌巾	ling wen zhuo jin
+圆点桌巾	yuan dian zhuo jin
+紫色桌巾	zi se zhuo jin
+浅绿桌巾	qian lv zhuo jin
+米色桌巾	mi se zhuo jin
+黄色桌巾	huang se zhuo jin
+蓝色桌巾	lan se zhuo jin
+粉红桌巾	fen hong zhuo jin
+金钛水壶	jin tai shui hu
+铜钛水壶	tong tai shui hu
+金钛水杯	jin tai shui bei
+铜钛水杯	tong tai shui bei
+绿珠珠三明治签	lv zhu zhu san ming zhi qian
+红珠珠三明治签	hong zhu zhu san ming zhi qian
+烟花祝庆三明治签	yan hua zhu qing san ming zhi qian
+勇者之剑三明治签	yong zhe zhi jian san ming zhi qian
+魔法星星三明治签	mo fa xing xing san ming zhi qian
+魔法甜心三明治签	mo fa tian xin san ming zhi qian
+阳伞三明治签	yang san san ming zhi qian
+晴空花三明治签	qing kong hua san ming zhi qian
+夕阳花三明治签	xi yang hua san ming zhi qian
+朝霞花三明治签	zhao xia hua san ming zhi qian
+蓝色盘子	lan se pan zi
+绿色盘子	lv se pan zi
+橘色盘子	ju se pan zi
+红色盘子	hong se pan zi
+白色盘子	bai se pan zi
+黄色盘子	huang se pan zi
+简约椅子	jian yue yi zi
+校园椅子	xiao yuan yi zi
+幻彩椅子	huan cai yi zi
+大自然椅子	da zi ran yi zi
+鬼祟椅子	gui sui yi zi
+黄色格子椅子	huang se ge zi yi zi
+蓝色格子椅子	lan se ge zi yi zi
+红色格子椅子	hong se ge zi yi zi
+草丛椅子	cao cong yi zi
+对决椅子	dui jue yi zi
+怪兽椅子	guai shou yi zi
+条纹椅子	tiao wen yi zi
+菱纹椅子	ling wen yi zi
+圆点椅子	yuan dian yi zi
+紫色椅子	zi se yi zi
+浅绿椅子	qian lv yi zi
+米色椅子	mi se yi zi
+黄色椅子	huang se yi zi
+蓝色椅子	lan se yi zi
+粉红椅子	fen hong yi zi
+鸭嘴炎兽三明治签	ya zui yan shou san ming zhi qian
+蓝莓桌巾	lan mei zhuo jin
+蓝莓椅子	lan mei yi zi
+# 食材
+粗绞肉香肠	cu jiao rou xiang chang
+饱伯罐头	bao bo guan tou
+巴哈罐头	ba ha guan tou
+豆子罐头	dou zi guan tou
+吐司面包	tu si mian bao
+通心粉	tong xin fen
+袋装蕈菇	dai zhuang xun gu
+烟熏尾巴	yan xun wei ba
+粗枝大葱	cu zhi da cong
+特选苹果	te xuan ping guo
+细骨	xi gu
+袋装土豆	dai zhuang tu dou
+水边香草	shui bian xiang cao
+袋装蔬菜	dai zhuang shu cai
+炸物拼盘	zha wu pin pan
+水煮蛋	shui zhu dan
+袋装果实	dai zhuang guo shi
+哞哞奶酪	mou mou ru lao
+香料组合	xiang liao zu he
+鲜鲜奶油	xian xian nai you
+即食咖喱	ji shi ga li
+椰奶	ye nai
+即食面	ji shi mian
+即食肉排	ji shi rou pai
+超极粉	chao ji fen
+生菜	sheng cai
+西红柿片	fan qie pian
+小西红柿块	xiao fan qie kuai
+小黄瓜片	xiao huang gua pian
+酸黄瓜片	suan huang gua pian
+洋葱片	yang cong pian
+红洋葱	hong yang cong
+青椒片	qing jiao pian
+红椒片	hong jiao pian
+黄椒片	huang jiao pian
+牛油果	niu you guo
+煎培根	jian pei gen
+火腿片	huo tui pian
+生火腿	sheng huo tui
+煎辣香肠	jian la xiang chang
+香草香肠	xiang cao xiang chang
+汉堡排	han bao pai
+毛崖蟹棒	mao ya xie bang
+烟熏鱼片	yan xun yu pian
+炸鱼片	zha yu pian
+水煮蛋片	shui zhu dan pian
+烘蛋	hong dan
+豆腐	dou fu
+米饭	mi fan
+面条	mian tiao
+土豆沙拉	tu dou sha la
+芝士片	zhi shi pian
+香蕉片	xiang jiao pian
+草莓片	cao mei pian
+苹果片	ping guo pian
+奇异果片	qi yi guo pian
+菠萝片	feng li pian
+小辣椒	xiao la jiao
+豆瓣菜	dou ban cai
+罗勒	luo le
+樱子果	ying zi guo
+零余果	ling yu guo
+桃桃果	tao tao guo
+莓莓果	mei mei guo
+利木果	li mu guo
+苹野果	ping ye guo
+橙橙果	cheng cheng guo
+柿仔果	shi zai guo
+木子果	mu zi guo
+文柚果	wen you guo
+勿花果	wu hua guo
+异奇果	yi qi guo
+芒芒果	mang mang guo
+乐芭果	le ba guo
+芭亚果	ba ya guo
+蔓莓果	man mei guo
+银色蔓莓果	yin se man mei guo
+金色蔓莓果	jin se man mei guo
+墨莓果	mo mei guo
+蕉香果	jiao xiang guo
+银色蕉香果	yin se jiao xiang guo
+金色蕉香果	jin se jiao xiang guo
+西梨果	xi li guo
+凰梨果	huang li guo
+银色凰梨果	yin se huang li guo
+金色凰梨果	jin se huang li guo
+榴石果	liu shi guo
+藻根果	zao gen guo
+比巴果	bi ba guo
+哈密果	ha mi guo
+萄葡果	tao pu guo
+茄番果	jia fan guo
+玉黍果	yu shu guo
+岳竹果	yue zhu guo
+茸丹果	rong dan guo
+檬柠果	meng ning guo
+刺角果	ci jiao guo
+椰木果	ye mu guo
+瓜西果	gua xi guo
+金枕果	jin zhen guo
+靛莓果	dian mei guo
+巧可果	qiao ke guo
+千香果	qian xiang guo
+烛木果	zhu mu guo
+罗子果	luo zi guo
+番荔果	fan li guo
+莲蒲果	lian pu guo
+通通果	tong tong guo
+腰木果	yao mu guo
+棱瓜果	leng gua guo
+福禄果	fu lu guo
+扁樱果	bian ying guo
+草蚕果	cao can guo
+佛柑果	fu gan guo
+莓榴果	mei liu guo
+刺耳果	ci er guo
+霹霹果	pi pi guo
+灯浆果	deng jiang guo
+枝荔果	zhi li guo
+龙睛果	long jing guo
+沙鳞果	sha lin guo
+龙火果	long huo guo
+杏仔果	xing zai guo
+兰萨果	lan sa guo
+星桃果	xing tao guo
+谜芝果	mi zhi guo
+瓜南果	gua nan guo
+无青果	wu qing guo
+子茄果	zi jia guo
+宛豆果	wan dou guo
+泥豆果	ni dou guo
+葱首果	cong shou guo
+角豆果	jiao dou guo
+菩达果	pu da guo
+辛子果	xin zi guo
+蒜蒜果	suan suan guo
+薯薯果	shu shu guo
+奇秘果	qi mi guo
+释陀果	shi tuo guo
+嘉珍果	jia zhen guo
+雾莲果	wu lian guo
+洛玫果	luo mei guo
+亚开果	ya kai guo
+香罗果	xiang luo guo
+花啤果	hua pi guo
+代币盒	dai bi he
+探宝器	tan bao qi
+破旧钓竿	po jiu diao gan
+好钓竿	hao diao gan
+厉害钓竿	li hai diao gan
+船票	chuan piao
+包裹	bao guo
+宝可梦之笛	bao ke meng zhi di
+秘密钥匙	mi mi yao shi
+兑换券	dui huan quan
+金假牙	jin jia ya
+电梯钥匙	dian ti yao shi
+自行车	zi xing che
+城镇地图	cheng zhen di tu
+西尔佛检视镜	xi er fu jian shi jing
+钥匙卡	yao shi ka
+学习装置	xue xi zhuang zhi
+离洞绳	li dong sheng
+宝可梦图鉴	bao ke meng tu jian
+灰色徽章	hui se hui zhang
+蓝色徽章	lan se hui zhang
+橙色徽章	cheng se hui zhang
+彩虹徽章	cai hong hui zhang
+粉红徽章	fen hong hui zhang
+金色徽章	jin se hui zhang
+深红徽章	shen hong hui zhang
+绿色徽章	lv se hui zhang
+定期月票	ding qi yue piao
+杰尼龟喷壶	jie ni gui pen hu
+红色鳞片	hong se lin pian
+遗失物	yi shi wu
+机械零件	ji xie ling jian
+地下钥匙	di xia yao shi
+银色之羽	yin se zhi yu
+虹色之羽	hong se zhi yu
+神奇蛋	shen qi dan
+秘传之药	mi chuan zhi yao
+宝可梦的蛋兑换券	bao ke meng de dan dui huan quan
+透明铃铛	tou ming ling dang
+蓝卡	lan ka
+音速自行车	yin su zi xing che
+越野自行车	yue ye zi xing che
+华丽大赛参加证	hua li da sai can jia zheng
+吼吼鲸喷壶	hou hou jing pen hu
+得文的物品	de wen de wu pin
+集灰袋	ji hui dai
+宝可方块盒	bao ke fang kuai he
+给大吾的信	gei da wu de xin
+无限船票	wu xian chuan piao
+探测器	tan ce qi
+护目镜	hu mu jing
+陨石	yun shi
+号客房的钥匙	hao ke fang de yao shi
+仓库钥匙	cang ku yao shi
+得文侦测镜	de wen zhen ce jing
+对战搜寻器	dui zhan sou xun qi
+声音记录器	sheng yin ji lu qi
+招式学习器盒	zhao shi xue xi qi he
+树果袋	shu guo dai
+教学电视	jiao xue dian shi
+三岛通行船券	san dao tong xing chuan quan
+七彩通行船券	qi cai tong xing chuan quan
+神秘船票	shen mi chuan piao
+极光船票	ji guang chuan piao
+粉末收集瓶	fen mo shou ji ping
+红宝石	hong bao shi
+蓝宝石	lan bao shi
+熔岩标志	rong yan biao zhi
+古航海图	gu hang hai tu
+探险套装	tan xian tao zhuang
+宝物袋	bao wu dai
+规则书	gui ze shu
+宝可追踪	bao ke zhui zong
+点数卡	dian shu ka
+冒险笔记	mao xian bi ji
+贴纸盒	tie zhi he
+饰品盒	shi pin he
+贴纸袋	tie zhi dai
+朋友手册	peng you shou ce
+发电厂钥匙	fa dian chang yao shi
+古代护符	gu dai hu fu
+银河队钥匙	yin he dui yao shi
+红色锁链	hong se suo lian
+可达鸭喷壶	ke da ya pen hu
+宝芬盒	bao fen he
+房间钥匙	fang jian yao shi
+大木的信	da mu de xin
+新月之羽	xin yue zhi yu
+会员卡	hui yuan ka
+天界之笛	tian jie zhi di
+火山镇石	huo shan zhen shi
+对战记录器	dui zhan ji lu qi
+葛拉西蒂亚花	ge la xi di ya hua
+球果盒	qiu guo he
+未知图腾笔记	wei zhi tu teng bi ji
+树果种植盆	shu guo zhong zhi pen
+美味尾巴	mei wei wei ba
+磁浮列车自由票	ci fu lie che zi you piao
+相册	xiang ce
+播放器	bo fang qi
+海声铃铛	hai sheng ling dang
+草绿色宝珠	cao lv se bao zhu
+上锁的容器	shang suo de rong qi
+谜之水晶	mi zhi shui jing
+实时通讯器	ji shi tong xun qi
+龙之骨	long zhi gu
+物品箱	wu pin xiang
+自由船票	zi you chuan piao
+光明石	guang ming shi
+黑暗石	hei an shi
+神石	shen shi
+配送物品	pei song wu pin
+奖牌盒	jiang pai he
+基因之楔	ji yin zhi xie
+许可证	xu ke zheng
+圆形护符	yuan xing hu fu
+闪耀护符	shan yao hu fu
+等离子卡	deng li zi ka
+脏手帕	zang shou pa
+阿克罗玛机器	a ke luo ma ji qi
+遗忘物	yi wang wu
+现形镜	xian xing jing
+全息影像通讯器	quan xi ying xiang tong xun qi
+博士的信	bo shi de xin
+轮滑鞋	lun hua xie
+莲叶童子喷壶	lian ye tong zi pen hu
+发电厂通行证	fa dian chang tong xing zheng
+超级环	chao ji huan
+似珍石	shi zhen shi
+常见石	chang jian shi
+自由票	zi you piao
+卡洛斯勋章	ka luo si xun zhang
+探险心得	tan xian xin de
+隐形眼镜盒	yin xing yan jing he
+衣物箱	yi wu xiang
+帅哥券	shuai ge quan
+超级坠饰	chao ji zhui shi
+超级手套	chao ji shou tao
+宝可方块套装	bao ke fang kuai tao zhuang
+得文潜水装备	de wen qian shui zhuang bei
+演出礼服	yan chu li fu
+演出礼裙	yan chu li qun
+熔岩装	rong yan zhuang
+海洋装	hai yang zhuang
+双人票	shuang ren piao
+超级手镯	chao ji shou zhuo
+超级护腕	chao ji hu wan
+超级吊坠	chao ji diao zhui
+超级眼镜	chao ji yan jing
+超级船锚	chao ji chuan mao
+超级领针	chao ji ling zhen
+超级头冠	chao ji tou guan
+超级脚镯	chao ji jiao zhuo
+钥石	yao shi
+陨石碎片	yun shi sui pian
+无限之笛	wu xian zhi di
+惩戒之壶	cheng jie zhi hu
+化妆包	hua zhuang bao
+手环	shou huan
+材料袋	cai liao dai
+钓竿	diao gan
+博士的面罩	bo shi de mian zhao
+光辉石	guang hui shi
+基格尔德多面体	ji ge er de duo mian ti
+骑行装置	qi xing zhuang zhi
+太阳之笛	tai yang zhi di
+月亮之笛	yue liang zhi di
+奇异卡片	qi yi ka pian
+强力手环	qiang li shou huan
+粉红花瓣	fen hong hua ban
+橙色花瓣	cheng se hua ban
+蓝色花瓣	lan se hua ban
+红色花瓣	hong se hua ban
+绿色花瓣	lv se hua ban
+黄色花瓣	huang se hua ban
+紫色花瓣	zi se hua ban
+虹色之花	hong se zhi hua
+桔色徽章	ju se hui zhang
+奈克洛索尔合体器	nai ke luo suo er he ti qi
+奈克洛露奈合体器	nai ke luo lu nai he ti qi
+伊利马的一般	yi li ma de yi ban
+留下的精灵球	liu xia de jing ling qiu
+马志士的签名	ma zhi shi de qian ming
+宝可梦盒	bao ke meng he
+回复口袋	hui fu kou dai
+糖果罐	tang guo guan
+强化口袋	qiang hua kou dai
+换装箱	huan zhuang xiang
+捕捉口袋	bu zhuo kou dai
+对战口袋	dui zhan kou dai
+推荐函	tui jian han
+许愿星	xu yuan xing
+极巨腕带	ji ju wan dai
+洛托姆自行车	luo tuo mu zi xing che
+露营组合	lu ying zu he
+厉害耳塞	li hai er sai
+陈旧的信	chen jiu de xin
+乐队的签名	yue dui de qian ming
+索妮亚的书	suo ni ya de shu
+洛托姆型录	luo tuo mu xing lu
+防晃护符	fang huang hu fu
+铠甲车票	kai jia che piao
+时尚名人卡	shi shang ming ren ka
+经验护符	jing yan hu fu
+证章护符	zheng zhang hu fu
+王冠车票	wang guan che piao
+传说笔记	chuan shuo bi ji
+传说笔记？	chuan shuo bi ji ？
+萝卜种子	luo bo zhong zi
+冰萝卜	bing luo bo
+黑萝卜	hei luo bo
+白色鬃毛	bai se zong mao
+黑色鬃毛	hei se zong mao
+木雕王冠	mu diao wang guan
+光辉花瓣	guang hui hua ban
+牵绊缰绳	qian ban jiang sheng
+时之镇宝	shi zhi zhen bao
+空之镇宝	kong zhi zhen bao
+镇宝	zhen bao
+家乡玛芬	jia xiang ma fen
+永恒之冰	yong heng zhi bing
+由克希之爪	you ke xi zhi zhao
+亚克诺姆之牙	ya ke nuo mu zhi ya
+艾姆利多之翅	ai mu li duo zhi chi
+神阖之笛	shen he zhi di
+沼之镇宝	zhao zhi zhen bao
+森之镇宝	sen zhi zhen bao
+火山镇宝	huo shan zhen bao
+山之镇宝	shan zhi zhen bao
+雪之镇宝	xue zhi zhen bao
+破损日记	po sun ri ji
+石板碎块	shi ban sui kuai
+幽尾玄鱼丸	you wei xuan yu wan
+古老日记	gu lao ri ji
+他人的遗失物	ta ren de yi shi wu
+起源球	qi yuan qiu
+起源矿石	qi yuan kuang shi
+净空石板	jing kong shi ban
+工艺套组	gong yi tao zu
+古老诗文	gu lao shi wen
+传说石板	chuan shuo shi ban
+手机洛托姆	shou ji luo tuo mu
+三明治	san ming zhi
+故勒顿的球	gu lei dun de qiu
+密勒顿的球	mi lei dun de qiu
+太晶珠	tai jing zhu
+朱之书	zhu zhi shu
+紫之书	zi zhi shu
+海岱的钱包	hai dai de qian bao
+恶之挂轴	e zhi gua zhou
+水之挂轴	shui zhi gua zhou
+洛拍棒	luo pai bang
+碧之时尚名人卡	bi zhi shi shang ming ren ka
+结晶碎片	jie jing sui pian
+碧草面具	bi cao mian ju
+晶耀护符	jing yao hu fu
+蓝之时尚名人卡	lan zhi shi shang ming ren ka
+蓝之光盘	lan zhi guang die
+幻之桃桃果	huan zhi tao tao guo
+同步器	tong bu qi
+零之秘宝	ling zhi mi bao
+急冻鸟的点心	ji dong niao de dian xin
+闪电鸟的点心	shan dian niao de dian xin
+火焰鸟的点心	huo yan niao de dian xin
+雷公的点心	lei gong de dian xin
+炎帝的点心	yan di de dian xin
+水君的点心	shui jun de dian xin
+洛奇亚的点心	luo qi ya de dian xin
+凤王的点心	feng wang de dian xin
+拉帝亚斯的点心	la di ya si de dian xin
+拉帝欧斯的点心	la di ou si de dian xin
+盖欧卡的点心	gai ou ka de dian xin
+固拉多的点心	gu la duo de dian xin
+烈空坐的点心	lie kong zuo de dian xin
+勾帕路翁的点心	gou pa lu weng de dian xin
+代拉基翁的点心	dai la ji weng de dian xin
+毕力吉翁的点心	bi li ji weng de dian xin
+莱希拉姆的点心	lai xi la mu de dian xin
+捷克罗姆的点心	jie ke luo mu de dian xin
+酋雷姆的点心	qiu lei mu de dian xin
+索尔迦雷欧的点心	suo er jia lei ou de dian xin
+露奈雅拉的点心	lu nai ya la de dian xin
+奈克洛兹玛的点心	nai ke luo zi ma de dian xin
+熊徒弟的点心	xiong tu di de dian xin
+雪暴马的点心	xue bao ma de dian xin
+灵幽马的点心	ling you ma de dian xin
+

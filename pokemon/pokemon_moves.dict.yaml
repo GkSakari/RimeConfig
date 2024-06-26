@@ -1,0 +1,950 @@
+---
+name: pokemon_moves
+version: "2024-02-04"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 第一世代
+拍击	pai ji
+空手劈	kong shou pi
+连环巴掌	lian huan ba zhang
+连续拳	lian xu quan
+百万吨重拳	bai wan dun zhong quan
+聚宝功	ju bao gong
+火焰拳	huo yan quan
+冰冻拳	bing dong quan
+雷电拳	lei dian quan
+抓	zhua
+夹住	jia zhu
+极落钳	ji luo qian
+旋风刀	xuan feng dao
+剑舞	jian wu
+居合劈	ju he pi
+起风	qi feng
+翅膀攻击	chi bang gong ji
+吹飞	chui fei
+飞翔	fei xiang
+绑紧	bang jin
+摔打	shuai da
+藤鞭	teng bian
+踩踏	cai ta
+二连踢	er lian ti
+百万吨重踢	bai wan dun zhong ti
+飞踢	fei ti
+回旋踢	hui xuan ti
+泼沙	po sha
+头锤	tou chui
+角撞	jiao zhuang
+乱击	luan ji
+角钻	jiao zuan
+撞击	zhuang ji
+泰山压顶	tai shan ya ding
+紧束	jin shu
+猛撞	meng zhuang
+大闹一番	da nao yi fan
+舍身冲撞	she shen chong zhuang
+摇尾巴	yao wei ba
+毒针	du zhen
+双针	shuang zhen
+飞弹针	fei dan zhen
+瞪眼	deng yan
+咬住	yao zhu
+叫声	jiao sheng
+吼叫	hou jiao
+唱歌	chang ge
+超音波	chao yin bo
+音爆	yin bao
+定身法	ding shen fa
+溶解液	rong jie ye
+火花	huo hua
+喷射火焰	pen she huo yan
+白雾	bai wu
+水枪	shui qiang
+水炮	shui pao
+冲浪	chong lang
+冰冻光束	bing dong guang shu
+暴风雪	bao feng xue
+幻象光线	huan xiang guang xian
+泡沫光线	pao mo guang xian
+极光束	ji guang shu
+破坏光线	po huai guang xian
+啄	zhuo
+啄钻	zhuo zuan
+深渊翻滚	shen yuan fan gun
+踢倒	ti dao
+双倍奉还	shuang bei feng huan
+地球上投	di qiu shang tou
+怪力	guai li
+吸取	xi qu
+超级吸取	chao ji xi qu
+寄生种子	ji sheng zhong zi
+生长	sheng zhang
+飞叶快刀	fei ye kuai dao
+日光束	ri guang shu
+毒粉	du fen
+麻痹粉	ma bi fen
+催眠粉	cui mian fen
+花瓣舞	hua ban wu
+吐丝	tu si
+龙之怒	long zhi nu
+火焰旋涡	huo yan xuan wo
+电击	dian ji
+十万伏特	shi wan fu te
+电磁波	dian ci bo
+打雷	da lei
+落石	luo shi
+地震	di zhen
+地裂	di lie
+挖洞	wa dong
+剧毒	ju du
+念力	nian li
+精神强念	jing shen qiang nian
+催眠术	cui mian shu
+瑜伽姿势	yu jia zi shi
+高速移动	gao su yi dong
+电光一闪	dian guang yi shan
+愤怒	fen nu
+瞬间移动	shun jian yi dong
+黑夜魔影	hei ye mo ying
+模仿	mo fang
+刺耳声	ci er sheng
+影子分身	ying zi fen shen
+自我再生	zi wo zai sheng
+变硬	bian ying
+变小	bian xiao
+烟幕	yan mu
+奇异之光	qi yi zhi guang
+缩入壳中	suo ru ke zhong
+变圆	bian yuan
+屏障	ping zhang
+光墙	guang qiang
+黑雾	hei wu
+反射壁	fan she bi
+聚气	ju qi
+忍耐	ren nai
+挥指	hui zhi
+鹦鹉学舌	ying wu xue she
+玉石俱碎	yu shi ju sui
+炸蛋	zha dan
+舌舔	she tian
+浊雾	zhuo wu
+污泥攻击	wu ni gong ji
+骨棒	gu bang
+大字爆炎	da zi bao yan
+攀瀑	pan pu
+贝壳夹击	bei ke jia ji
+高速星星	gao su xing xing
+火箭头锤	huo jian tou chui
+尖刺加农炮	jian ci jia nong pao
+缠绕	chan rao
+瞬间失忆	shun jian shi yi
+折弯汤匙	zhe wan tang chi
+生蛋	sheng dan
+飞膝踢	fei xi ti
+大蛇瞪眼	da she deng yan
+食梦	shi meng
+毒瓦斯	du wa si
+投球	tou qiu
+吸血	xi xue
+恶魔之吻	e mo zhi wen
+神鸟猛击	shen niao meng ji
+变身	bian shen
+泡沫	pao mo
+迷昏拳	mi hun quan
+蘑菇孢子	mo gu bao zi
+闪光	shan guang
+精神波	jing shen bo
+跃起	yue qi
+溶化	rong hua
+蟹钳锤	xie qian chui
+大爆炸	da bao zha
+乱抓	luan zhua
+骨头回力镖	gu tou hui li biao
+睡觉	shui jiao
+岩崩	yan beng
+终结门牙	zhong jie men ya
+棱角化	leng jiao hua
+纹理	wen li
+三重攻击	san chong gong ji
+愤怒门牙	fen nu men ya
+劈开	pi kai
+替身	ti shen
+挣扎	zheng zha
+# 第二世代
+写生	xie sheng
+三连踢	san lian ti
+小偷	xiao tou
+蛛网	zhu wang
+心之眼	xin zhi yan
+恶梦	e meng
+火焰轮	huo yan lun
+打鼾	da han
+诅咒	zu zhou
+抓狂	zhua kuang
+气旋攻击	qi xuan gong ji
+棉孢子	mian bao zi
+绝处逢生	jue chu feng sheng
+怨恨	yuan hen
+细雪	xi xue
+守住	shou zhu
+音速拳	yin su quan
+可怕面孔	ke pa mian kong
+出奇一击	chu qi yi ji
+天使之吻	tian shi zhi wen
+腹鼓	fu gu
+污泥炸弹	wu ni zha dan
+掷泥	zhi ni
+章鱼桶炮	zhang yu tong pao
+撒菱	sa ling
+电磁炮	dian ci pao
+识破	shi po
+同命	tong ming
+终焉之歌	zhong yan zhi ge
+冰冻之风	bing dong zhi feng
+看穿	kan chuan
+骨棒乱打	gu bang luan da
+锁定	suo ding
+逆鳞	ni lin
+沙暴	sha bao
+终极吸取	zhong ji xi qu
+挺住	ting zhu
+撒娇	sa jiao
+滚动	gun dong
+点到为止	dian dao wei zhi
+虚张声势	xu zhang sheng shi
+喝牛奶	he niu nai
+电光	dian guang
+连斩	lian zhan
+钢翼	gang yi
+黑色目光	hei se mu guang
+迷人	mi ren
+梦话	meng hua
+治愈铃声	zhi yu ling sheng
+报恩	bao en
+礼物	li wu
+迁怒	qian nu
+神秘守护	shen mi shou hu
+分担痛楚	fen dan tong chu
+神圣之火	shen sheng zhi huo
+震级	zhen ji
+爆裂拳	bao lie quan
+超级角击	chao ji jiao ji
+龙息	long xi
+接棒	jie bang
+再来一次	zai lai yi ci
+追打	zhui da
+高速旋转	gao su xuan zhuan
+甜甜香气	tian tian xiang qi
+铁尾	tie wei
+金属爪	jin shu zhao
+借力摔	jie li shuai
+晨光	chen guang
+光合作用	guang he zuo yong
+月光	yue guang
+觉醒力量	jue xing li liang
+十字劈	shi zi pi
+龙卷风	long juan feng
+求雨	qiu yu
+大晴天	da qing tian
+咬碎	yao sui
+镜面反射	jing mian fan she
+自我暗示	zi wo an shi
+神速	shen su
+原始之力	yuan shi zhi li
+暗影球	an ying qiu
+预知未来	yu zhi wei lai
+碎岩	sui yan
+潮旋	chao xuan
+围攻	wei gong
+# 第三世代
+击掌奇袭	ji zhang qi xi
+吵闹	chao nao
+蓄力	xu li
+喷出	pen chu
+吞下	tun xia
+热风	re feng
+冰雹	bing bao
+无理取闹	wu li qu nao
+吹捧	chui peng
+磷火	lin huo
+临别礼物	lin bie li wu
+硬撑	ying cheng
+真气拳	zhen qi quan
+清醒	qing xing
+看我嘛	kan wo ma
+自然之力	zi ran zhi li
+充电	chong dian
+挑衅	tiao xin
+帮助	bang zhu
+戏法	xi fa
+扮演	ban yan
+祈愿	qi yuan
+藉助	jie zhu
+扎根	zha gen
+蛮力	man li
+魔法反射	mo fa fan she
+回收利用	hui shou li yong
+报复	bao fu
+劈瓦	pi wa
+哈欠	ha qian
+拍落	pai luo
+蛮干	man gan
+喷火	pen huo
+特性互换	te xing hu huan
+封印	feng yin
+焕然一新	huan ran yi xin
+怨念	yuan nian
+抢夺	qiang duo
+秘密之力	mi mi zhi li
+潜水	qian shui
+猛推	meng tui
+保护色	bao hu se
+萤火	ying huo
+洁净光芒	jie jing guang mang
+薄雾球	bo wu qiu
+羽毛舞	yu mao wu
+摇晃舞	yao huang wu
+火焰踢	huo yan ti
+玩泥巴	wan ni ba
+冰球	bing qiu
+尖刺臂	jian ci bi
+偷懒	tou lan
+巨声	ju sheng
+剧毒牙	ju du ya
+撕裂爪	si lie zhao
+爆炸烈焰	bao zha lie yan
+加农水炮	jia nong shui pao
+彗星拳	hui xing quan
+惊吓	jing xia
+气象球	qi xiang qiu
+芳香治疗	fang xiang zhi liao
+假哭	jia ku
+空气利刃	kong qi li ren
+过热	guo re
+气味侦测	qi wei zhen ce
+岩石封锁	yan shi feng suo
+银色旋风	yin se xuan feng
+金属音	jin shu yin
+草笛	cao di
+挠痒	nao yang
+宇宙力量	yu zhou li liang
+喷水	pen shui
+信号光束	xin hao guang shu
+暗影拳	an ying quan
+神通力	shen tong li
+冲天拳	chong tian quan
+流沙深渊	liu sha shen yuan
+绝对零度	jue dui ling du
+浊流	zhuo liu
+种子机关枪	zhong zi ji guan qiang
+燕返	yan fan
+冰锥	bing zhui
+铁壁	tie bi
+挡路	dang lu
+长嚎	zhang hao
+龙爪	long zhao
+疯狂植物	feng kuang zhi wu
+健美	jian mei
+弹跳	dan tiao
+泥巴射击	ni ba she ji
+毒尾	du wei
+渴望	ke wang
+伏特攻击	fu te gong ji
+魔法叶	mo fa ye
+玩水	wan shui
+冥想	ming xiang
+叶刃	ye ren
+龙之舞	long zhi wu
+岩石爆击	yan shi bao ji
+电击波	dian ji bo
+水之波动	shui zhi bo dong
+破灭之愿	po mie zhi yuan
+精神突进	jing shen tu jin
+# 第四世代
+羽栖	yu qi
+重力	zhong li
+奇迹之眼	qi ji zhi yan
+唤醒巴掌	huan xing ba zhang
+臂锤	bi chui
+陀螺球	tuo luo qiu
+治愈之愿	zhi yu zhi yuan
+盐水	yan shui
+自然之恩	zi ran zhi en
+佯攻	yang gong
+啄食	zhuo shi
+顺风	shun feng
+点穴	dian xue
+金属爆炸	jin shu bao zha
+急速折返	ji su zhe fan
+近身战	jin shen zhan
+以牙还牙	yi ya huan ya
+恶意追击	e yi zhui ji
+查封	cha feng
+投掷	tou zhi
+精神转移	jing shen zhuan yi
+王牌	wang pai
+回复封锁	hui fu feng suo
+绞紧	jiao jin
+力量戏法	li liang xi fa
+胃液	wei ye
+幸运咒语	xing yun zhou yu
+抢先一步	qiang xian yi bu
+仿效	fang xiao
+力量互换	li liang hu huan
+防守互换	fang shou hu huan
+惩罚	cheng fa
+珍藏	zhen cang
+烦恼种子	fan nao zhong zi
+突袭	tu xi
+毒菱	du ling
+心灵互换	xin ling hu huan
+水流环	shui liu huan
+电磁飘浮	dian ci piao fu
+闪焰冲锋	shan yan chong feng
+发劲	fa jin
+波导弹	bo dao dan
+岩石打磨	yan shi da mo
+毒击	du ji
+恶之波动	e zhi bo dong
+暗袭要害	an xi yao hai
+水流尾	shui liu wei
+种子炸弹	zhong zi zha dan
+空气之刃	kong qi zhi ren
+十字剪	shi zi jian
+虫鸣	chong ming
+龙之波动	long zhi bo dong
+龙之俯冲	long zhi fu chong
+力量宝石	li liang bao shi
+吸取拳	xi qu quan
+真空波	zhen kong bo
+真气弹	zhen qi dan
+能量球	neng liang qiu
+勇鸟猛攻	yong niao meng gong
+大地之力	da di zhi li
+掉包	diao bao
+终极冲击	zhong ji chong ji
+诡计	gui ji
+子弹拳	zi dan quan
+雪崩	xue beng
+冰砾	bing li
+暗影爪	an ying zhao
+雷电牙	lei dian ya
+冰冻牙	bing dong ya
+火焰牙	huo yan ya
+影子偷袭	ying zi tou xi
+泥巴炸弹	ni ba zha dan
+精神利刃	jing shen li ren
+意念头锤	yi nian tou chui
+镜光射击	jing guang she ji
+加农光炮	jia nong guang pao
+攀岩	pan yan
+清除浓雾	qing chu nong wu
+戏法空间	xi fa kong jian
+流星群	liu xing qun
+放电	fang dian
+喷烟	pen yan
+飞叶风暴	fei ye feng bao
+强力鞭打	qiang li bian da
+岩石炮	yan shi pao
+十字毒刃	shi zi du ren
+垃圾射击	la ji she ji
+铁头	tie tou
+磁铁炸弹	ci tie zha dan
+尖石攻击	jian shi gong ji
+诱惑	you huo
+隐形岩	yin xing yan
+打草结	da cao jie
+喋喋不休	die die bu xiu
+制裁光砾	zhi cai guang li
+虫咬	chong yao
+充电光束	chong dian guang shu
+木槌	mu chui
+水流喷射	shui liu pen she
+攻击指令	gong ji zhi ling
+防御指令	fang yu zhi ling
+回复指令	hui fu zhi ling
+双刃头锤	shuang ren tou chui
+二连击	er lian ji
+时光咆哮	shi guang pao xiao
+亚空裂斩	ya kong lie zhan
+新月舞	xin yue wu
+捏碎	nie sui
+熔岩风暴	rong yan feng bao
+暗黑洞	an hei dong
+种子闪光	zhong zi shan guang
+奇异之风	qi yi zhi feng
+暗影潜袭	an ying qian xi
+# 第五世代
+磨爪	mo zhao
+广域防守	guang yu fang shou
+防守平分	fang shou ping fen
+力量平分	li liang ping fen
+奇妙空间	qi miao kong jian
+精神冲击	jing shen chong ji
+毒液冲击	du ye chong ji
+身体轻量化	shen ti qing liang hua
+愤怒粉	fen nu fen
+意念移物	yi nian yi wu
+魔法空间	mo fa kong jian
+击落	ji luo
+山岚摔	shan lan shuai
+烈焰溅射	lie yan jian she
+污泥波	wu ni bo
+蝶舞	die wu
+重磅冲撞	zhong bang chong zhuang
+同步干扰	tong bu gan rao
+电球	dian qiu
+浸水	jin shui
+蓄能焰袭	xu neng yan xi
+盘蜷	pan quan
+下盘踢	xia pan ti
+酸液炸弹	suan ye zha dan
+欺诈	qi zha
+单纯光束	dan chun guang shu
+找伙伴	zhao huo ban
+您先请	nin xian qing
+轮唱	lun chang
+回声	hui sheng
+逐步击破	zhu bu ji po
+清除之烟	qing chu zhi yan
+辅助力量	fu zhu li liang
+快速防守	kuai su fang shou
+交换场地	jiao huan chang di
+热水	re shui
+破壳	po ke
+治愈波动	zhi yu bo dong
+祸不单行	huo bu dan xing
+自由落体	zi you luo ti
+换档	huan dang
+巴投	ba tou
+烧净	shao jing
+延后	yan hou
+杂技	za ji
+镜面属性	jing mian shu xing
+报仇	bao chou
+搏命	bo ming
+传递礼物	chuan di li wu
+烈火深渊	lie huo shen yuan
+水之誓约	shui zhi shi yue
+火之誓约	huo zhi shi yue
+草之誓约	cao zhi shi yue
+伏特替换	fu te ti huan
+虫之抵抗	chong zhi di kang
+重踏	zhong ta
+冰息	bing xi
+龙尾	long wei
+自我激励	zi wo ji li
+电网	dian wang
+疯狂伏特	feng kuang fu te
+直冲钻	zhi chong zuan
+二连劈	er lian pi
+爱心印章	ai xin yin zhang
+木角	mu jiao
+圣剑	sheng jian
+贝壳刃	bei ke ren
+高温重压	gao wen zhong ya
+青草搅拌器	qing cao jiao ban qi
+疯狂滚压	feng kuang gun ya
+棉花防守	mian hua fang shou
+暗黑爆破	an hei bao po
+精神击破	jing shen ji po
+扫尾拍打	sao wei pai da
+暴风	bao feng
+爆炸头突击	bao zha tou tu ji
+齿轮飞盘	chi lun fei pan
+火焰弹	huo yan dan
+高科技光炮	gao ke ji guang pao
+古老之歌	gu lao zhi ge
+神秘之剑	shen mi zhi jian
+冰封世界	bing feng shi jie
+雷击	lei ji
+青焰	qing yan
+火之舞	huo zhi wu
+冰冻伏特	bing dong fu te
+极寒冷焰	ji han leng yan
+大声咆哮	da sheng pao xiao
+冰柱坠击	bing zhu zhui ji
+交错火焰	jiao cuo huo yan
+交错闪电	jiao cuo shan dian
+# 第六世代
+飞身重压	fei shen zhong ya
+掀榻榻米	xian ta ta mi
+打嗝	da ge
+耕地	geng di
+黏黏网	nian nian wang
+致命针刺	zhi ming zhen ci
+潜灵奇袭	qian ling qi xi
+万圣夜	wan sheng ye
+战吼	zhan hou
+等离子浴	deng li zi yu
+抛物面充电	pao wu mian chong dian
+森林咒术	sen lin zhou shu
+落英缤纷	luo ying bin fen
+冷冻干燥	leng dong gan zao
+魅惑之声	mei huo zhi sheng
+抛下狠话	pao xia hen hua
+颠倒	dian dao
+吸取之吻	xi qu zhi wen
+戏法防守	xi fa fang shou
+鲜花防守	xian hua fang shou
+青草场地	qing cao chang di
+薄雾场地	bo wu chang di
+输电	shu dian
+嬉闹	xi nao
+妖精之风	yao jing zhi feng
+月亮之力	yue liang zhi li
+爆音波	bao yin bo
+妖精之锁	yao jing zhi suo
+王者盾牌	wang zhe dun pai
+和睦相处	he mu xiang chu
+密语	mi yu
+钻石风暴	zuan shi feng bao
+蒸汽爆炸	zheng qi bao zha
+异次元洞	yi ci yuan dong
+飞水手里剑	fei shui shou li jian
+魔法火焰	mo fa huo yan
+尖刺防守	jian ci fang shou
+芳香薄雾	fang xiang bo wu
+怪异电波	guai yi dian bo
+毒液陷阱	du ye xian jing
+粉尘	fen chen
+大地掌控	da di zhang kong
+磁场操控	ci chang cao kong
+欢乐时光	huan le shi guang
+电气场地	dian qi chang di
+魔法闪耀	mo fa shan yao
+庆祝	qing zhu
+牵手	qian shou
+圆瞳	yuan tong
+蹭蹭脸颊	ceng ceng lian jia
+手下留情	shou xia liu qing
+纠缠不休	jiu chan bu xiu
+增强拳	zeng qiang quan
+归天之翼	gui tian zhi yi
+千箭齐发	qian jian qi fa
+千波激荡	qian bo ji dang
+大地神力	da di shen li
+破灭之光	po mie zhi guang
+根源波动	gen yuan bo dong
+断崖之剑	duan ya zhi jian
+画龙点睛	hua long dian jing
+异次元猛攻	yi ci yuan meng gong
+# 第七世代
+究极无敌大冲撞	jiu ji wu di da chong zhuang
+全力无双激烈拳	quan li wu shuang ji lie quan
+极速俯冲轰烈撞	ji su fu chong hong lie zhuang
+强酸剧毒灭绝雨	qiang suan ju du mie jue yu
+地隆啸天大终结	di long xiao tian da zhong jie
+毁天灭地巨岩坠	hui tian mie di ju yan zhui
+绝对捕食回旋斩	jue dui bu shi hui xuan zhan
+无尽暗夜之诱惑	wu jin an ye zhi you huo
+超绝螺旋连击	chao jue luo xuan lian ji
+超强极限爆焰弹	chao qiang ji xian bao yan dan
+超级水流大漩涡	chao ji shui liu da xuan wo
+绚烂缤纷花怒放	xuan lan bin fen hua nu fang
+终极伏特狂雷闪	zhong ji fu te kuang lei shan
+至高精神破坏波	zhi gao jing shen po huai bo
+激狂大地万里冰	ji kuang da di wan li bing
+究极巨龙震天地	jiu ji ju long zhen tian di
+黑洞吞噬万物灭	hei dong tun shi wan wu mie
+可爱星星飞天撞	ke ai xing xing fei tian zhuang
+皮卡皮卡必杀击	pi ka pi ka bi sha ji
+集沙	ji sha
+迎头一击	ying tou yi ji
+碉堡	diao bao
+缝影	feng ying
+泡影的咏叹调	pao ying de yong tan diao
+冰锤	bing chui
+花疗	hua liao
+十万马力	shi wan ma li
+吸取力量	xi qu li liang
+日光刃	ri guang ren
+树叶	shu ye
+聚光灯	ju guang deng
+毒丝	du si
+磨砺	mo li
+辅助齿轮	fu zhu chi lun
+深渊突刺	shen yuan tu ci
+花粉团	hua fen tuan
+掷锚	zhi mao
+精神场地	jing shen chang di
+猛扑	meng pu
+火焰鞭	huo yan bian
+嚣张	xiao zhang
+燃尽	ran jin
+速度互换	su du hu huan
+修长之角	xiu chang zhi jiao
+净化	jing hua
+觉醒之舞	jue xing zhi wu
+核心惩罚者	he xin cheng fa zhe
+热带踢	re dai ti
+号令	hao ling
+鸟嘴加农炮	niao zui jia nong pao
+鳞片噪音	lin pian zao yin
+龙锤	long chui
+狂舞挥打	kuang wu hui da
+极光幕	ji guang mu
+遮天蔽日暗影箭	zhe tian bi ri an ying jian
+极恶飞跃粉碎击	ji e fei yue fen sui ji
+海神庄严交响乐	hai shen zhuang yan jiao xiang yue
+巨人卫士	ju ren wei shi
+阿罗拉	a luo la
+七星夺魂腿	qi xing duo hun tui
+驾雷驭电戏冲浪	jia lei yu dian xi chong lang
+认真起来大爆击	ren zhen qi lai da bao ji
+九彩升华齐聚顶	jiu cai sheng hua qi ju ding
+起源超新星大爆炸	qi yuan chao xin xing da bao zha
+陷阱甲壳	xian jing jia qiao
+花朵加农炮	hua duo jia nong pao
+精神之牙	jing shen zhi ya
+跺脚	duo jiao
+暗影之骨	an ying zhi gu
+冲岩	chong yan
+水流裂破	shui liu lie po
+棱镜激光	leng jing lei she
+暗影偷盗	an ying tou dao
+流星闪冲	liu xing shan chong
+暗影之光	an ying zhi guang
+泪眼汪汪	lei yan wang wang
+麻麻刺刺	ma ma ci ci
+自然之怒	zi ran zhi nu
+多属性攻击	duo shu xing gong ji
+千万伏特	qian wan fu te
+惊爆大头	jing bao da tou
+等离子闪电拳	deng li zi shan dian quan
+光子喷涌	guang zi pen yong
+炽魂热舞烈音爆	chi hun re wu lie yin bao
+狼啸石牙飓风暴	lang xiao shi ya ju feng bao
+亲密无间大乱揍	qin mi wu jian da luan zou
+日光回旋下苍穹	ri guang hui xuan xia cang qiong
+月华飞溅落灵霄	yue hua fei jian luo ling xiao
+焚天灭世炽光爆	fen tian mie shi chi guang bao
+电电加速	dian dian jia su
+滔滔冲浪	tao tao chong lang
+飘飘坠落	piao piao zhui luo
+闪闪雷光	shan shan lei guang
+活活气泡	huo huo qi pao
+麻麻电击	ma ma dian ji
+熊熊火爆	xiong xiong huo bao
+哗哗气场	hua hua qi chang
+坏坏领域	huai huai ling yu
+茁茁炸弹	zhuo zhuo zha dan
+冰冰霜冻	bing bing shuang dong
+亮亮风暴	liang liang feng bao
+砰砰击破	peng peng ji po
+钢拳双击	gang quan shuang ji
+# 第八世代
+极巨防壁	ji ju fang bi
+极巨炮	ji ju pao
+狙击	ju ji
+紧咬不放	jin yao bu fang
+大快朵颐	da kuai duo yi
+背水一战	bei shui yi zhan
+沥青射击	li qing she ji
+魔法粉	mo fa fen
+龙箭	long jian
+茶会	cha hui
+蛸固	shao gu
+电喙	dian hui
+鳃咬	sai yao
+换场	huan chang
+极巨火爆	ji ju huo bao
+极巨虫蛊	ji ju chong gu
+极巨闪电	ji ju shan dian
+极巨攻击	ji ju gong ji
+极巨拳斗	ji ju quan dou
+极巨幽魂	ji ju you hun
+极巨寒冰	ji ju han bing
+极巨酸毒	ji ju suan du
+极巨水流	ji ju shui liu
+极巨飞冲	ji ju fei chong
+极巨妖精	ji ju yao jing
+极巨龙骑	ji ju long qi
+极巨超能	ji ju chao neng
+极巨岩石	ji ju yan shi
+极巨大地	ji ju da di
+极巨恶霸	ji ju e ba
+极巨草原	ji ju cao yuan
+极巨钢铁	ji ju gang tie
+魂舞烈音爆	hun wu lie yin bao
+扑击	pu ji
+装饰	zhuang shi
+鼓击	gu ji
+捕兽夹	bu shou jia
+火焰球	huo yan qiu
+巨兽斩	ju shou zhan
+巨兽弹	ju shou dan
+气场轮	qi chang lun
+广域破坏	guang yu po huai
+木枝突刺	mu zhi tu ci
+破音	po yin
+苹果酸	ping guo suan
+万有引力	wan you yin li
+灵魂冲击	ling hun chong ji
+神奇蒸汽	shen qi zheng qi
+生命水滴	sheng ming shui di
+拦堵	lan du
+假跪真撞	jia gui zhen zhuang
+流星突击	liu xing tu ji
+无极光束	wu ji guang shu
+铁蹄光线	tie ti guang xian
+超极巨深渊灭焰	chao ji ju shen yuan mie yan
+超极巨蝶影蛊惑	chao ji ju die ying gu huo
+超极巨万雷轰顶	chao ji ju wan lei hong ding
+超极巨特大金币	chao ji ju te da jin bi
+超极巨会心一击	chao ji ju hui xin yi ji
+超极巨幻影幽魂	chao ji ju huan ying you hun
+超极巨极光旋律	chao ji ju ji guang xuan lv
+超极巨热情拥抱	chao ji ju re qing yong bao
+超极巨资源再生	chao ji ju zi yuan zai sheng
+超极巨臭气冲天	chao ji ju chou qi chong tian
+超极巨岩阵以待	chao ji ju yan zhen yi dai
+超极巨旋风袭卷	chao ji ju xuan feng xi juan
+超极巨异毒电场	chao ji ju yi du dian chang
+超极巨幸福圆满	chao ji ju xing fu yuan man
+超极巨劣化衰变	chao ji ju lie hua shuai bian
+超极巨天道七星	chao ji ju tian dao qi xing
+超极巨炎石喷发	chao ji ju yan shi pen fa
+超极巨沙尘漫天	chao ji ju sha chen man tian
+超极巨睡魔降临	chao ji ju shui mo jiang lin
+超极巨酸不溜丢	chao ji ju suan bu liu diu
+超极巨琼浆玉液	chao ji ju qiong jiang yu ye
+超极巨天谴雷诛	chao ji ju tian qian lei zhu
+超极巨钢铁阵法	chao ji ju gang tie zhen fa
+超极巨液金熔击	chao ji ju ye jin rong ji
+超极巨激漩泡涡	chao ji ju ji xuan pao wo
+超极巨百火焚野	chao ji ju bai huo fen ye
+广域战力	guang yu zhan li
+铁滚轮	tie gun lun
+鳞射	lin she
+流星光束	liu xing guang shu
+臂贝武器	bi bei wu qi
+薄雾炸裂	bo wu zha lie
+青草滑梯	qing cao hua ti
+电力上升	dian li shang sheng
+大地波动	da di bo dong
+爬击	pa ji
+妒火	du huo
+泄愤	xie fen
+灵骚	ling sao
+腐蚀气体	fu shi qi ti
+指导	zhi dao
+快速折返	kuai su zhe fan
+三旋击	san xuan ji
+双翼	shuang yi
+热沙大地	re sha da di
+丛林治疗	cong lin zhi liao
+闇冥强击	an ming qiang ji
+水流连打	shui liu lian da
+超极巨狂擂乱打	chao ji ju kuang lei luan da
+超极巨破阵火球	chao ji ju po zhen huo qiu
+超极巨狙击神射	chao ji ju ju ji shen she
+超极巨灰飞鞭灭	chao ji ju hui fei bian mie
+超极巨水炮轰灭	chao ji ju shui pao hong mie
+超极巨夺命一击	chao ji ju duo ming yi ji
+超极巨流水连击	chao ji ju liu shui lian ji
+雷电囚笼	lei dian qiu long
+巨龙威能	ju long wei neng
+冰冷视线	bing leng shi xian
+怒火中烧	nu huo zhong shao
+雷鸣蹴击	lei ming cu ji
+雪矛	xue mao
+星碎	xing sui
+诡异咒语	gui yi zhou yu
+克命爪	ke ming zhao
+屏障猛攻	ping zhang meng gong
+力量转换	li liang zhuan huan
+岩斧	yan fu
+阳春风暴	yang chun feng bao
+神秘之力	shen mi zhi li
+大愤慨	da fen kai
+波动冲	bo dong chong
+叶绿爆震	ye lv bao zhen
+冰山风	bing shan feng
+胜利之舞	sheng li zhi wu
+突飞猛扑	tu fei meng pu
+毒千针	du qian zhen
+气场之翼	qi chang zhi yi
+冤冤相报	yuan yuan xiang bao
+闭关	bi guan
+三连箭	san lian jian
+群魔乱舞	qun mo luan wu
+秘剑	mi jian
+千重涛	qian chong tao
+枯叶风暴	ku ye feng bao
+鸣雷风暴	ming lei feng bao
+热沙风暴	re sha feng bao
+新月祈祷	xin yue qi dao
+勇气填充	yong qi tian chong
+# 第九世代
+太晶爆发	tai jing bao fa
+线阱	xian jing
+下压踢	xia ya ti
+扫墓	sao mu
+琉光冲激	liu guang chong ji
+上菜	shang cai
+喷射拳	pen she quan
+辣椒精华	la jiao jing hua
+疾速转轮	ji su zhuan lun
+鼠数儿	shu shu er
+冰旋	bing xuan
+巨剑突击	ju jian tu ji
+复生祈祷	fu sheng qi dao
+盐腌	yan yan
+三连钻	san lian zuan
+晶光转转	jing guang zhuan zhuan
+描绘	miao hui
+甩肉	shuai rou
+仆刀	pu dao
+千变万花	qian bian wan hua
+闪焰高歌	shan yan gao ge
+流水旋舞	liu shui xuan wu
+怒牛	nu niu
+淘金潮	tao jin chao
+精神剑	jing shen jian
+水蒸气	shui zheng qi
+大灾难	da zai nan
+全开猛撞	quan kai meng zhuang
+闪电猛冲	shan dian meng chong
+断尾	duan wei
+冷笑话	leng xiao hua
+大扫除	da sao chu
+雪景	xue jing
+虫扑	chong pu
+起草	qi cao
+泼冷水	po leng shui
+强力钻	qiang li zuan
+双光束	shuang guang shu
+愤怒之拳	fen nu zhi quan
+铠农炮	kai nong pao
+悔念剑	hui nian jian
+电光双击	dian guang shuang ji
+巨力锤	ju li chui
+复仇	fu chou
+水波刀	shui bo dao
+灼热暴冲	zhuo re bao chong
+黑暗暴冲	hei an bao chong
+剧毒暴冲	ju du bao chong
+格斗暴冲	ge dou bao chong
+魔法暴冲	mo fa bao chong
+血月	xue yue
+刷刷茶炮	shua shua cha pao
+糖浆炸弹	tang jiang zha dan
+棘藤棒	ji teng bang
+电光束	dian guang shu
+晶光星群	jing guang xing qun
+随机光	sui ji guang
+火焰守护	huo yan shou hu
+迅雷	xun lei
+强刃攻击	qiang ren gong ji
+迅子利刃	xun zi li ren
+硬压	ying ya
+龙声鼓舞	long sheng gu wu
+魅诱之声	mei you zhi sheng
+豁出去	huo chu qu
+闪电强袭	shan dian qiang xi
+精神噪音	jing shen zao yin
+快手还击	kuai shou huan ji
+邪毒锁链	xie du suo lian
+
