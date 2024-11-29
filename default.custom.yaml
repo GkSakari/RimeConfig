@@ -7,6 +7,7 @@ customization:
 patch:
   "menu/page_size": 5
   schema_list:
+    - {schema: tiger}
+    - {schema: tigress}
     - {schema: double_pinyin_flypy}
     - {schema: jaroomaji}
-    - {schema: tiger}

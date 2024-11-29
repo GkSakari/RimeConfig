@@ -126,9 +126,9 @@ translator:
   encode_commit_history: false
   # max_phrase_length: 4
   enable_user_dict: false
-  enable_completion: false	# 编码提示 true 开启  false 关闭
+  enable_completion: true	# 编码提示 true 开启  false 关闭
   comment_format:  #提示码自定义
-    - "xform/~/ /" #去掉编码提示前的~号
+    - "xform/~//" #去掉编码提示前的~号
     # - "xform/^/ /" #提示前面 +间距
 
 
