@@ -172,6 +172,11 @@ key_binder:
   select_last_character: "bracketright"  # 右中括号 ]
 
   bindings:
+
+    # 空码时空格清屏
+    - { accept: space, send: space, when: has_menu }
+    - { accept: space, send: Escape, when: composing }
+
     # Tab / Shift+Tab 切换光标至下/上一个拼音
     - { when: composing, accept: Shift+Tab, send: Shift+Left }
     - { when: composing, accept: Tab, send: Shift+Right }

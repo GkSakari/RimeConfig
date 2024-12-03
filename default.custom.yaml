@@ -9,5 +9,5 @@ patch:
   schema_list:
     - {schema: tiger}
     - {schema: tigress}
-    - {schema: double_pinyin_flypy}
+    - {schema: double_pinyin}
     - {schema: jaroomaji}

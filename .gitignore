@@ -2,3 +2,6 @@
 build
 logs
 user.yaml
+adder.py
+installation.yaml
+*.swp
