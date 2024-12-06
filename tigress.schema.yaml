@@ -147,7 +147,7 @@ reverse_lookup:
 
 
 key_binder:
-  #  import_preset: default
+  import_preset: default
   bindings:
     #- { when: composing, accept: Return, send: Escape }
     #- { accept: space, send: space, when: has_menu } #有候选时空格上屏首选
