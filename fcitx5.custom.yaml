@@ -1,0 +1,9 @@
+patch:
+  "app_options/kitty":
+    ascii_mode: true
+  "app_options/nvim":
+    ascii_mode: true
+  "app_options/mpv":
+    ascii_mode: true
+  "app_options/dotfiles-floating":
+    ascii_mode: true
