@@ -285,3 +285,5 @@ chaifen:
 
 punctuator:
   import_preset: symbols
+  digit_separators: "."
+  digit_separator_action: commit
