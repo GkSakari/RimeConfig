@@ -10,6 +10,75 @@ patch:
     windowsterminal.exe: {ascii_mode: true, vim_mode: true}
   show_notifications:
     - schema
-  "style/color_scheme": aqua
-  "style/font_face": "Segoe UI Emoji, 思源黑体 CN, SF Pro, Noto Color Emoji"
+  # "style/color_scheme": aqua
+  # "style/font_face": "Segoe UI Emoji, 霞鹜文楷 GB 屏幕阅读版, 思源黑体 CN, SF Pro, Noto Color Emoji"
+  "style/font_face": "霞鹜文楷 GB 屏幕阅读版"
   "style/inline_preedit": true
+
+  preset_color_schemes:
+      wechat_light:
+        name: 微信浅色
+        author: plutotree
+        back_color: 0xFFFFFF
+        border_color: 0xFFFFFF
+        shadow_color: 0xCECECE
+        text_color: 0x333333
+        label_color: 0x777777
+        hilited_label_color: 0xFFFFFF
+        hilited_text_color: 0xFFFFFF
+        hilited_back_color: 0x6FA800
+        hilited_candidate_text_color: 0xFFFFFF
+        hilited_candidate_back_color: 0x6FA800
+        candidate_text_color: 0x333333
+        comment_text_color: 0x888888
+      wechat_dark:
+        name: 微信深色
+        author: plutotree
+        back_color: 0x151515
+        border_color: 0x696969
+        text_color: 0xFFFFFF
+        label_color: 0x777777
+        hilited_label_color: 0xFFFFFF
+        hilited_text_color: 0xFFFFFF
+        hilited_back_color: 0x6FA800
+        hilited_candidate_text_color: 0xFFFFFF
+        hilited_candidate_back_color: 0x6FA800
+        candidate_text_color: 0xCCCCCC
+        comment_text_color: 0x888888
+
+  style:
+    color_scheme: wechat_light              # 配色方案
+    color_scheme_dark: wechat_dark          # 深色模式下的配色方案
+    # font_face: "微软雅黑"                     # 全局字体
+    font_point: 15                          # 全局字体字号
+    label_font_point: 14                    # 标签字体字号
+    inline_preedit: true                    # 行内显示预编辑区 微信、微软拼音是，搜狗不是
+
+    horizontal: true                        # 候选字横排显示
+    display_tray_icon: true                 # 显示托盘图标
+    label_format: "%s"                      # 标签字符格式
+
+    layout:
+      baseline: 107                            # 字号百分比，与 linespacing 一同设置可解决字体跳动问题，设置为 0 为禁用
+      linespacing: 140                         # 字号百分比，参考 <https://github.com/rime/weasel/pull/1177>
+      align_type: center
+      min_width: 10                         # 候选框最小宽度
+      max_width: 1200                       # 候选框最大宽度
+      min_height: 0                         # 候选框最小高度
+      max_height: 0                         # 候选框最大高度
+      border_width: 1                       # 边框宽度 又名border
+      margin_x: 10                          # 窗口左右边距
+      margin_y: 6                           # 窗口上下边距
+      spacing: 4                            # 打字栏与候选栏的间距
+      candidate_spacing: 16                  # 候选词间距
+      hilite_spacing: 6                     # 标签（序号）和候选字之间的间距
+      hilite_padding_x: 6                   # 高亮区域和内部文字的左右间距 
+      hilite_padding_y: 3                   # 高亮区域和内部文字的上下间距
+      round_corner: 8                       # 候选背景色块圆角半径 又名hilited_corner_radius
+      corner_radius: 8                      # 候选窗口圆角半径
+      shadow_radius: 2                       # 阴影区域半径，为 0 不显示阴影；需要同时在配色方案中指定非透明的阴影颜色
+      shadow_offset_x: 4                     # 阴影左右偏移距离
+      shadow_offset_y: 4                     # 阴影上下偏移距离
+
+
+
